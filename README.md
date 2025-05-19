@@ -1,0 +1,2 @@
+# Colab
+Projeto_Final_Alura_+_Google_Agentes_IA_com_Gemini_Criador_de_Loadouts_COD
